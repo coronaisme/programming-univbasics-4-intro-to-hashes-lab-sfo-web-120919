@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
- my_hash = {k: v}
+ my_hash = {:why_cant_this_be_named_key => "Or maybe this can't be named value?"}
 end
 
 def pioneer
